@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+mongodb_host: mongodb.daws92s.store
+redis_host: redis.daws92s.online
+mysql_host: mysql.daws92s.online
+rabbitmq_host: rabbitmq.daws92s.online
+catalogue_host: catalogue.daws92s.online
+user_host: user.daws92s.online
+cart_host: cart.daws92s.online
+shipping_host: shipping.daws92s.online
+payment_host: payment.daws92s.online
